@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "Ricty",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 1.2,
+    "editor.lineNumbers": "off",
+    "prettier.tabWidth": 4,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
